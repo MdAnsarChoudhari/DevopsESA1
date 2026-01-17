@@ -18,4 +18,4 @@ def check_number(num):
 
 
 if __name__ == "__main__":
-    print(check_number(7))
+    print(check_number(8))
